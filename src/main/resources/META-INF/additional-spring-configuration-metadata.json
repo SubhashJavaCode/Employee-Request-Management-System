@@ -1,0 +1,87 @@
+{"properties": [
+  {
+    "name": "driverName",
+    "type": "java.lang.String",
+    "description": "A description for 'driverName'"
+  },
+  {
+    "name": "jwt.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.secret'"
+  },
+  {
+    "name": "message",
+    "type": "java.lang.String",
+    "description": "A description for 'message'"
+  },
+  {
+    "name": "management.endpoints.web.exposure.include",
+    "type": "java.lang.String",
+    "description": "A description for 'management.endpoints.web.exposure.include'"
+  },
+  {
+    "name": "driverName",
+    "type": "java.lang.String",
+    "description": "A description for 'driverName'"
+  },
+  {
+    "name": "driverName.one",
+    "type": "java.lang.String",
+    "description": "A description for 'driverName.one'"
+  },
+  {
+    "name": "driver.name",
+    "type": "java.lang.String",
+    "description": "A description for 'driver.name'"
+  },
+  {
+    "name": "driverName",
+    "type": "java.lang.String",
+    "description": "A description for 'driverName'"
+  },
+  {
+    "name": "driverName",
+    "type": "java.lang.String",
+    "description": "A description for 'driverName'"
+  },
+  {
+    "name": "driverName",
+    "type": "java.lang.String",
+    "description": "A description for 'driverName'"
+  },
+  {
+    "name": "driverName",
+    "type": "java.lang.String",
+    "description": "A description for 'driverName'"
+  },
+  {
+    "name": "driverName",
+    "type": "java.lang.String",
+    "description": "A description for 'driverName'"
+  },
+  {
+    "name": "driverName",
+    "type": "java.lang.String",
+    "description": "A description for 'driverName'"
+  },
+  {
+    "name": "driverName",
+    "type": "java.lang.String",
+    "description": "A description for 'driverName'"
+  },
+  {
+    "name": "spring.datasource.initialize",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.initialize'"
+  },
+  {
+    "name": "jwt.tokenValidity",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.tokenValidity'"
+  },
+  {
+    "name": "jwt.tokenValidity",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.tokenValidity'"
+  }
+]}
